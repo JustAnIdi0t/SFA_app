@@ -1,2 +1,2 @@
-# NSA_app
-This is the github repository for the Nation Stuttering Association(NSA) app. The code for this application is published under a MIT license, and is free to be used by anyone.
+# SFA Application
+This is the github repository for the SFA app. This code is NOT free to be used by anyone under a MIT license, because some people hate open source software.
